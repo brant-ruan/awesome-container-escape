@@ -30,5 +30,3 @@ This repository is only used to collect techniques of container escape. For more
 | [Mounted Host /etc](mount-etc.md)                            | mount           |      |        |
 | [Mounted Host Procfs](mount-procfs.md)                       | mount           |      |        |
 
-## Interesting Documents
-
