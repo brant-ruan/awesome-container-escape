@@ -23,6 +23,7 @@ Collections of container escape techniques.
 | [Exposed Docker Remote API](expose-docker-remote-api.md)     | config          |      |        |
 | [Exposed K8s API Server](expose-k8s-api-server.md)           | config          |      |        |
 | [Exposed K8s Dashboard](expose-k8s-dashboard.md)             | config          |      |        |
+| [Exposed Kubelet API Server](expose-kubelet.md)             | config          |      |        |
 | [Mounted docker.sock](mount-docker-sock.md)                  | mount           |      |        |
 | [Mounted Host /etc](mount-etc.md)                            | mount           |      |        |
 | [Mounted Host Procfs](mount-procfs.md)                       | mount           |      |        |
