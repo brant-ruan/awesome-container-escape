@@ -2,6 +2,8 @@
 
 Collections of container escape techniques.
 
+This repository is only used to collect techniques of container escape. For more information & resources about container security and cloud native security, see [Awesome Cloud Native Security](https://github.com/brant-ruan/awesome-cloud-native-security) :P
+
 ## Container Escape Techniques
 
 | Name                                                         | Type            | Info | Status |
